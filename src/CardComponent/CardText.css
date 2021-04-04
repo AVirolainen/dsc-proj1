@@ -1,0 +1,49 @@
+.CardHeader{
+    font-weight: 700;
+    font-size: 34px;
+    margin-top: 80px;
+
+}
+
+.CardText{
+    margin-left: 170px;
+    font-family: 'Kumbh Sans', sans-serif;
+
+}
+
+.CardBody{
+    position: absolute;
+    font-size: 24px;
+}
+.container{
+    margin-top: 30px;
+    text-align: start;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.wrap{
+    align-items: center;
+    width: 450px;
+    margin-top: 40px;
+    border-bottom: 1px solid grey;
+
+}
+.question_header{
+    display: flex;
+}
+
+.question{
+    font-size: 20px;
+    padding-bottom: 10px;
+    transition: color 0.4s ease-out 0.1s;
+}
+.question:hover{
+    color: #E05C34;
+}
+
+.answer{
+    font-size: 14px;
+    font-weight: 700;
+    width: 450px;
+}
